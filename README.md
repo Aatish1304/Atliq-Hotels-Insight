@@ -1,4 +1,7 @@
 #**Atliq Hotels Insight**
+
+https://app.powerbi.com/groups/me/reports/c210b961-e669-4357-b28d-dfac8416ba55/5b97399d793c2cd9eca9?ctid=a3da1a5e-6af9-42be-8ad1-2a9b41101b90&experience=power-bi
+
 Problem Statement
 
 This dashboard helps hospitality businesses understand their performance better. It provides insights into customer satisfaction, service quality, and operational efficiency. Through different metrics, they can identify areas of improvement and enhance their strategies. It also provides insights into average guest ratings and occupancy trends, helping businesses address challenges and optimize operations.
